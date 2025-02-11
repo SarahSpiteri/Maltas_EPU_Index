@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+selenium
+schedule
+nltk
+beautifulsoup4
+python-dateutil
